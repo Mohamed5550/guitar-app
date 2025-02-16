@@ -1,0 +1,17 @@
+{
+    "name": "mohamed/guitar-app",
+    "description": "Rick's final guitar application",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Hesham",
+            "email": "mohamed.hesham5550@gmail.com"
+        }
+    ],
+    "require": {}
+}
